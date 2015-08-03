@@ -1,2 +1,3 @@
 my first file data
 my feature were added
+feature 2
