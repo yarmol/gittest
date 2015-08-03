@@ -2,3 +2,5 @@ my first file data
 my feature were added
 feature 2
 feature 4 
+----------
+adding new session info
