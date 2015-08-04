@@ -7,3 +7,4 @@ feature 4
 ----------
 adding new session info
 news
++ new feature/add
